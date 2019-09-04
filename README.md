@@ -1,6 +1,6 @@
-#Deep Reinforcement Framework for Finanacial Portfolio Management Problem
+Deep Reinforcement Learning Framework for Finanacial Portfolio Management Problem
 
-#Requirements
+Requirements
 
 tensorflow>=1.0.0
 tflearn>=0.3.2
