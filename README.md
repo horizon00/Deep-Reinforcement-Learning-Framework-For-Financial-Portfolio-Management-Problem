@@ -2,6 +2,7 @@ Deep Reinforcement Learning Framework for Finanacial Portfolio Management Proble
 
 Requirements
 
+
 1. tensorflow>=1.0.0
 2. tflearn>=0.3.2
 3. pympler>=0.5
